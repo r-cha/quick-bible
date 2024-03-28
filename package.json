@@ -1,16 +1,16 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "quick-bible",
-  "title": "Quick Bible",
+  "name": "bible-search",
+  "title": "Bible Search",
   "description": "Look up a bible verse",
-  "icon": "command-icon.png",
+  "icon": "bible-icon.png",
   "author": "r-cha",
   "license": "MIT",
   "commands": [
     {
       "name": "index",
-      "title": "Bible",
-      "description": "Look up a bible verse",
+      "title": "Look Up Bible Verse",
+      "description": "",
       "mode": "view",
       "arguments": [
         {
